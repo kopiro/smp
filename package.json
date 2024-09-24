@@ -1,0 +1,15 @@
+{
+	"name": "music-player-app",
+	"version": "1.0.0",
+	"description": "A simple web music player that allows users to browse and play local MP3 files.",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"author": "Your Name",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.0",
+		"node-id3": "^0.2.6"
+	}
+}
